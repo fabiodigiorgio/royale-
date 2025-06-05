@@ -1,0 +1,1 @@
+start streamlit run bonificacoes_app_podio.py
